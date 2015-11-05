@@ -1,0 +1,15 @@
+{
+  "name": "url-helper",
+  "homepage": "https://github.com/thinkholic/url-helper",
+  "authors": [
+    "thinkholic <mailtokasun@gmail.com>"
+  ],
+  "description": "",
+  "main": "libs/url-helper.js",
+  "moduleType": [],
+  "keywords": [
+    "url",
+    "queryParams"
+  ],
+  "license": "MIT"
+}
