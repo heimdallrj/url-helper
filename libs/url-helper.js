@@ -11,5 +11,5 @@ UrlHelper.queryParams.getValue = function(q) {
 if(typeof module !== "undefined") {
   module.exports = UrlHelper;
 } else {
-  window.LoginState = UrlHelper;
+  window.UrlHelper = UrlHelper;
 }
